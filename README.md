@@ -1,20 +1,8 @@
-### 안녕하세요, 사용자 경험에 가치를 더하는 프론트엔드 개발자 최아름입니다.
+### 안녕하세요, 새로운 기술과 지식을 끊임없이 탐구하며, 저만의 정원에서 성장하는 개발자 최아름입니다.
 
 <br>
-
-<div align="center">
-  <a href="[프로젝트 링크]">
-    <img src="https://via.placeholder.com/600x300.png?text=bookDam+Project" alt="bookDam 프로젝트 이미지" width="600" />
-  </a>
-</div>
-
-<br>
-
----
 
 ### 💻 기술 스택
-
-<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -25,15 +13,12 @@
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </p>
 
----
-
 ### 📚 주요 프로젝트
 
 #### bookDam: 독서와 사람을 연결하는 커뮤니티 플랫폼
 
 - **설명**: 기존 독서 플랫폼의 한계를 넘어, '책을 중심으로 깊이 있는 대화'가 가능한 커뮤니티 플랫폼입니다.
-- **주요 기능**: 도서 검색, 커뮤니티 생성/참여, 마이페이지 독서 기록 관리, 독서 취향 분석 등
-- **[프로젝트 보러가기]([bookDam 프로젝트 저장소 링크])**
+- **[프로젝트 보러가기](https://github.com/Haleychoioi/BookDam.git)**
 
 ---
 
